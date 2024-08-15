@@ -45,3 +45,9 @@ For Loki and Mimir, I used this configuration inside the `/pkg` directory of Lok
   }
 ]
 ```
+
+### Run it
+
+1. Start your local Grafana
+2. Run the VSCode Grafana app
+3. Start this extension by making use of VSCodes debugging feature. There is a target called "Run Extension". Or just press F5 when you have this repository open in VSCode.
